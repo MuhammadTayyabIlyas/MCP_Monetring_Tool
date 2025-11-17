@@ -1,0 +1,18 @@
+# Log files
+*.log
+mcp-cron.log
+mcp-health.log
+mcp-daily-summary-*.txt
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+.env
+*.local
