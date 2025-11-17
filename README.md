@@ -188,7 +188,7 @@ grep "FAILED" ~/.claude/mcp-health.log | grep "$(date +%Y-%m-%d)"
 
 #### Run Before Important Work
 ```bash
-mcp-status && claude
+mcp-status && your-command
 ```
 
 ---
