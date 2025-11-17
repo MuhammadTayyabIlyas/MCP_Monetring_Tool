@@ -6,7 +6,7 @@
 [![Bash](https://img.shields.io/badge/Bash-5.0+-brightgreen.svg)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20WSL-blue.svg)](https://github.com/MuhammadTayyabIlyas/MCP_Monetring_Tool)
 
-**Complete monitoring and health check system for Claude Code MCP servers**
+**Complete monitoring and health check system for MCP servers**
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
@@ -16,7 +16,7 @@
 
 ## 📋 Overview
 
-A comprehensive monitoring solution that ensures your **Model Context Protocol (MCP) servers** remain healthy and connected. Built for developers using Claude Code with multiple MCP integrations.
+A comprehensive monitoring solution that ensures your **Model Context Protocol (MCP) servers** remain healthy and connected. Built for developers using MCP integrations.
 
 ### 🎯 What This Does
 
@@ -432,7 +432,7 @@ If you find this tool helpful:
 
 ## 🙏 Acknowledgments
 
-- Claude Code Team for the MCP protocol
+- PAKEDX Team for MCP monitoring development
 - Model Context Protocol contributors
 - Open source community
 
@@ -440,7 +440,7 @@ If you find this tool helpful:
 
 <div align="center">
 
-**Made with ❤️ for the Claude Code community**
+**Made with ❤️ by PAKEDX**
 
 [⬆ Back to Top](#-mcp-server-monitoring-system)
 
